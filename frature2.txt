@@ -1,2 +1,2 @@
 This feature2gt
-This is line2
+This is line2git 
