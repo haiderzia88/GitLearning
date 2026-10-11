@@ -3,4 +3,8 @@ This is feature1
 This is added from Feature2 branch 
 This is added from Feature2 branch 
 
+
 This is added from the master 
+
+This is added from Feature2 branch 
+
